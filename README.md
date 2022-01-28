@@ -31,11 +31,10 @@ https://www.cl.cam.ac.uk/research/nl/bea2019st/</h4>
 
 <h3 align="left">Comparison of Model Performance:</h3>
 <div align="leftr">
-    <img src="/Screenshot 2022-01-28 201525.png" width="400px"</img> 
+    <img src="/Screenshot 2022-01-28 203350.png" width="800px"</img> 
 </div>
 
-<h3 align="left">Kaggle Rank:</h3>
-The leaderboard rank is 412 out of 5558 which is under top 8% of learderboard ranks.
+
 
 <h3 align="left">Blog Link:</h3>
 https://medium.com/@abhishekrai352/sentence-correction-using-rnn-ce254977000
